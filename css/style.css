@@ -68,4 +68,11 @@ header {
   text-decoration: none;
 }
 
+#wrap {
+  clear: both;
+}
 
+.content {
+  width: 960px;
+  margin: 0 auto;
+}
